@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+int main()
+{
+     printf("1:Hello World\n");
+     printf("2:Roblox Evade is the best game\n");
+     printf("3:I am a pro cuz im already lvl one hundred\n");
+
+    return 0;
+
+
+}
